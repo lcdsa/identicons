@@ -12,7 +12,10 @@ all: lcdsa \
 		kappanneo \
 		l3ragio \
 		oneclaudio \
-		scappati
+		scappati \
+		alessio-giombetti \
+		gio93k \
+		niggone
 	@echo "all done!"
 
 clean:
