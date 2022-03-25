@@ -15,7 +15,8 @@ all: lcdsa \
 		scappati \
 		alessio-giombetti \
 		gio93k \
-		niggone
+		niggone \
+		eddybudge 
 	@echo "all done!"
 
 clean:
